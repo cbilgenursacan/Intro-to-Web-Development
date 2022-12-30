@@ -1,0 +1,17 @@
+.lectures {
+    margin-top: 20px;
+    width: 80%;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+
+.lecture {
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 5px;
+}
